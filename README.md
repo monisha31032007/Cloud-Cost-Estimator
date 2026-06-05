@@ -1,5 +1,11 @@
 # Cloud Cost Estimator
 
+## Intern Information
+
+**Name:** Monisha S  
+**Intern ID:** CITS2080  
+**Domain:** Cloud Computing  
+
 ## Project Overview
 
 The Cloud Cost Estimator is a simple cloud computing project designed to estimate monthly infrastructure costs based on common cloud services. The project demonstrates how cloud resources contribute to overall expenses and helps users understand cloud budgeting and pricing concepts.
